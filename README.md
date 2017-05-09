@@ -2,6 +2,8 @@
 
 The present file illustrates my solution to the [Udacity Vehicle Detection Project](https://github.com/udacity/CarND-Vehicle-Detection).
 
+[![alt text](output_images/youtube_screenshot.png)](https://www.youtube.com/watch?v=cNEpPq1f3nU)
+
 ---
 
 The goals / steps of this project are the following:
