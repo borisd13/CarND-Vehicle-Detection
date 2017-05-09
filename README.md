@@ -2,7 +2,7 @@
 
 The present file illustrates my solution to the [Udacity Vehicle Detection Project](https://github.com/udacity/CarND-Vehicle-Detection).
 
-[![alt text](output_images/youtube_screenshot.png)](https://www.youtube.com/watch?v=cNEpPq1f3nU)
+[![alt text](output_images/youtube_project.png)](https://www.youtube.com/watch?v=cNEpPq1f3nU)
 
 ---
 
